@@ -1,11 +1,11 @@
 # Mamba PyTorch
 
 <p align="center">
-  <img src="Mamba.png" alt="Mamba" style="display:block; margin:auto; width:680px;" />
+  <img src="Mamba.png" alt="Mamba" style="display:block; margin:auto; width:720px;" />
 </p>
 
 <p align="center">
-  <img src="Mamba+.png" alt="Mamba+" style="display:block; margin:auto; width:680px;" />
+  <img src="Mamba+.png" alt="Mamba+" style="display:block; margin:auto; width:720px;" />
 </p>
 
 PyTorch implementation of Mamba.
